@@ -1,9 +1,9 @@
 package Sorting;
 
-public class BubbleSort {
+public class Sorting {
     public static void main(String[] args)
     {
-        BubbleSort sort=new BubbleSort();
+        Sorting sort=new Sorting();
         sort.bubbleSort();
         sort.insertionSort();
     }
